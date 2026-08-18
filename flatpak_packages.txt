@@ -1,0 +1,6 @@
+com.spotify.Client
+com.valvesoftware.Steam
+dev.vencord.Vesktop
+org.gnome.Extensions
+org.prismlauncher.PrismLauncher
+org.vinegarhq.Sober
